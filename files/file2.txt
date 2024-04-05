@@ -1,0 +1,4 @@
+Hello world.
+This is a sample text for file 2. It also contains several lines of sentences.
+Some sentences might overlap with those in file 1. We will compare them later.
+The weather is beautiful today.

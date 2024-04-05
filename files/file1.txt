@@ -1,0 +1,4 @@
+Hello world.
+This is a sample text for file 1. It contains several lines of sentences.
+Each line represents a separate sentence. We use this text as an example.
+The weather is beautiful today.
