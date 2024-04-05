@@ -1,6 +1,6 @@
 import os
 import pytest
-from script import process_files
+from package.script import process_files
 
 
 @pytest.fixture
